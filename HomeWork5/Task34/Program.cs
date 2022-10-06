@@ -20,4 +20,4 @@ for (int i = 0; i < arr.Length; i++)
     count++;
 
 }
-Console.WriteLine($"Количество четных элементов в данном массиве: {count}");
+Console.WriteLine($"Количество четных чисел в данном массиве: {count}");
